@@ -42,14 +42,7 @@ never touches the network.
 
 ## Quick Start
 
-```bash
-# From the monorepo root
-git clone https://github.com/ZeroHackOrg/zerohack-geek-tools.git
-cd zerohack-geek-tools && npm install
-npm run geek:secret -- scan .
-```
-
-**Standalone:**
+### Standalone
 
 ```bash
 git clone https://github.com/ZeroHackOrg/zerohack-secret-scanner.git
